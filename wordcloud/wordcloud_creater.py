@@ -9,6 +9,7 @@ import os
 
 # Function to generate and save word cloud
 def generate_wordcloud(input_file, output_file):
+    
     # Load stopwords from nltk
     stop_words = set(stopwords.words('english'))
 

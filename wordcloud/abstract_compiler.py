@@ -6,7 +6,7 @@ df = df['with Abstract']['Abstract ']
 all_abstract = list(df)
 
 for abst in all_abstract:
-    with open("abstract_file.txt", 'a') as f:
+    with open("assets/abstract_file.txt", 'a') as f:
         abstract = str(abst).strip().replace('\n', ' ')
         f.write('\n')
         f.write(abstract)

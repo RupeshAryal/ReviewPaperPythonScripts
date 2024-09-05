@@ -18,7 +18,7 @@ def verify_bibtex(text):
 
 #function to write bib text to a file 
 def write_to_bib_file(text):
-    with open('reference.bib', 'a') as f:
+    with open('assets/reference.bib', 'a') as f:
         f.write('\n')
         f.write(text)
 
@@ -33,7 +33,7 @@ def handle_website_overload(text):
 
 
 # loading the excel file containing doi and getting the list of all doi
-doi_file = pd.read_excel('doi_file.xlsx', sheet_name = ['with Abstract'])
+doi_file =  pd.read_excel('../assets/doi_file.xlsx', sheet_name=['with Abstract'])
 df = doi_file['with Abstract']
 doi_column = df['Doi']
 doi_list = list(doi_column)
