@@ -28,7 +28,7 @@ def handle_website_overload(text):
     if text != 'Too many requests, please try again later.':
         return False
     else:
-        time.sleep(5)
+        # time.sleep(5)
         return True
 
 
