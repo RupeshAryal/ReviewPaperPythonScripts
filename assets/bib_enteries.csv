@@ -1,0 +1,149 @@
+,title,year,journal,publisher,paper_type
+0,FOUNDATIONAL MODELS IN MEDICAL IMAGING: A COMPREHENSIVE SURVEY AND FUTURE VISION,2023,,arXiv,Review
+1,A review on deep learning in medical image analysis,2021,International Journal of Multimedia Information Retrieval,Springer Science and Business Media LLC,Review
+2,Convolutional neural networks in medical image understanding: a survey,2021,Evolutionary Intelligence,Springer Science and Business Media LLC,Review
+3,Literature review: efficient deep neural networks techniques for medical image analysis,2022,Neural Computing and Applications,Springer Science and Business Media LLC,Review
+4,Medical deep learning—A systematic meta-review,2022,Computer Methods and Programs in Biomedicine,Elsevier BV,Review
+5,Deep Learning in Medical Imaging: A Review,2022,,CRC Press,Review
+6,A survey on deep learning in medical image analysis,2017,Medical Image Analysis,Elsevier BV,Review
+7,Deep Learning for Medical Image Cryptography: A Comprehensive Review,2023,Applied Sciences,MDPI AG,Review
+8,"Deep learning for healthcare: review, opportunities and challenges",2017,Briefings in Bioinformatics,Oxford University Press (OUP),Review
+9,A guide to deep learning in healthcare,2019,Nature Medicine,Springer Science and Business Media LLC,Review
+10,Medical image segmentation using deep learning: A survey,2022,IET Image Processing,Institution of Engineering and Technology (IET),Image Segmentation
+11,A Review of Deep Learning Algorithms and Their Applications in Healthcare,2022,Algorithms,MDPI AG,Review
+12,Deep learning-enabled medical computer vision,2021,npj Digital Medicine,Springer Science and Business Media LLC,Review
+13,"A Review of Deep Learning in Medical Imaging: Imaging Traits, Technology Trends, Case Studies With Progress Highlights, and Future Promises",2021,Proceedings of the IEEE,Institute of Electrical and Electronics Engineers (IEEE),Review
+14,"Computer vision and machine learning for medical image analysis: recent advances, challenges, and way forward",2022,Artificial Intelligence Surgery,OAE Publishing Inc.,Review
+15,A survey on incorporating domain knowledge into deep learning for medical image analysis,2021,Medical Image Analysis,Elsevier BV,Review
+16,Vision Transformers in medical computer vision—A contemplative retrospection,2023,Engineering Applications of Artificial Intelligence,Elsevier BV,Review
+17,Medical image analysis using deep learning algorithms,2023,Frontiers in Public Health,Frontiers Media SA,Review
+18,A comprehensive review of deep neural networks for medical image processing: Recent developments and future opportunities,2023,Healthcare Analytics,Elsevier BV,Review
+19,Machine learning for medical imaging: methodological failures and recommendations for the future,2022,npj Digital Medicine,Springer Science and Business Media LLC,Review
+20,"Automated algorithm for medical data structuring, and segmentation using artificial intelligence within secured environment for dataset creation",2024,European Journal of Radiology Open,Elsevier BV,Image Segmentation
+21,Digital mammographic tumor classification using transfer learning from deep convolutional neural networks,2016,Journal of Medical Imaging,SPIE-Intl Soc Optical Eng,Image Classification
+22,Dermatologist-level classification of skin cancer with deep neural networks,2017,Nature,Springer Science and Business Media LLC,Image Classification
+23,Transfer learning for medical image classification: a literature review,2022,BMC Medical Imaging,Springer Science and Business Media LLC,Transfer Learning
+24,Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists,2018,PLOS Medicine,Public Library of Science (PLoS),Image Classification
+25,A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction,2019,Radiology,Radiological Society of North America (RSNA),
+26,Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs,2016,JAMA,American Medical Association (AMA),
+27,Opportunities And Obstacles For Deep Learning In Biology And Medicine,2017,,Cold Spring Harbor Laboratory,
+28,AN OVERVIEW OF CHALLENGES IN MEDICAL IMAGE PROCESSING,2022,,ACM,Image Segmentation
+29,A review of the application of deep learning in medical image classification and segmentation,2020,Annals of Translational Medicine,AME Publishing Company,Review
+30,Systematic Review of Generative Adversarial Networks (GANs) for Medical Image Classification and Segmentation,2022,Journal of Digital Imaging,Springer Science and Business Media LLC,Review
+31,Multi-Classification of Brain Tumor MRI Images Using Deep Convolutional Neural Network with Fully Optimized Framework,2021,"Iranian Journal of Science and Technology, Transactions of Electrical Engineering",Springer Science and Business Media LLC,Image Classification
+32,Using Deep Learning Architectures for Detection and Classification of Diabetic Retinopathy ,2023,Sensors,MDPI AG,Image Classification
+33,COVID-19 Prediction and Detection Using Deep Learning,,,,Image Classification
+34,Deep learning approaches for COVID-19 detection based on chest X-ray images,2021,Expert Systems with Applications,Elsevier BV,Image Classification
+35,Deep Learning COVID-19 Features on CXR Using Limited Training Data Sets,2020,IEEE Transactions on Medical Imaging,Institute of Electrical and Electronics Engineers (IEEE),Image Classification
+36,Deep Learning as a Frontier of Machine Learning: A Review,2018,International Journal of Computer Applications,Foundation of Computer Science,Review
+37,Deep learning-enabled medical computer vision(same as 14),2021,npj Digital Medicine,Springer Science and Business Media LLC,Review
+38,A multi-model deep convolutional neural network for automatic hippocampus segmentation and classification in Alzheimer’s disease,2020,NeuroImage,Elsevier BV,Multimodal - IC/IS
+39,Deep Learning–Based Histopathologic Assessment of Kidney Tissue,2019,Journal of the American Society of Nephrology,Ovid Technologies (Wolters Kluwer Health),Image Segmentation
+40,Deep learning for medical image segmentation: State-of-the-art advancements and challenges,2024,Informatics in Medicine Unlocked,Elsevier BV,Image Segmentation
+41,Segment anything in medical images,2024,Nature Communications,Springer Science and Business Media LLC,Image Segmentation
+42,Medical Image Segmentation and Its Real-World Applications: UNet and Beyond,,,,Image Segmentation
+43,Data augmentation for improving deep learning in image classification problem,2018,,IEEE,Data Augmentation
+44,Novel Transfer Learning Approach for Medical Imaging with Limited Labeled Data,2021,Cancers,MDPI AG,Transfer Learning
+45,Attention Unet++: A Nested Attention-Aware U-Net for Liver CT Image Segmentation,2020,,IEEE,Image Segmentation
+46,Deep learning architecture based on segmented fundus image features for classification of diabetic retinopathy,2021,Biomedical Signal Processing and Control,Elsevier BV,Image Classification
+47,NucleiSegNet: Robust Deep Learning Architecture for the Nuclei Segmentation of Liver Cancer Histopathology Images,2021,Computers in Biology and Medicine,Elsevier BV,Image Segmentation
+48,Brain tumor segmentation and grading of lower-grade glioma using deep learning in MRI images,2020,Computers in Biology and Medicine,Elsevier BV,Image Segmentation
+49,MRI-based brain tumor detection using convolutional deep learning methods and chosen machine learning techniques,2023,BMC Medical Informatics and Decision Making,Springer Science and Business Media LLC,Image Classification
+50,A Hybrid Deep Transfer Learning of CNN-Based LR-PCA for Breast Lesion Diagnosis via Medical Breast Mammograms ,2022,Sensors,MDPI AG,Image Classification
+51,A deep learning method for classifying mammographic breast density categories,2017,Medical Physics,Wiley,Image Classification
+52,Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation,2020,Medical Image Analysis,Elsevier BV,Review
+53,Unified Focal loss: Generalising Dice and cross entropy-based losses to handle class imbalanced medical image segmentation,2022,Computerized Medical Imaging and Graphics,Elsevier BV,Challenges / Problems
+54,CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data,2023,Neurocomputing,Elsevier BV,Challenges / Problems
+55,Segmenting medical images with limited data,2024,Neural Networks,Elsevier BV,Image Segmentation
+56,Identifying Melanoma Images using EfficientNet Ensemble: Winning Solution to the SIIM-ISIC Melanoma Classification Challenge,2020,,arXiv,Image Classification
+57,Generative Adversarial Network in Medical Imaging: A Review,2019,Medical Image Analysis,Elsevier BV,Review
+58,Domain Adaptation for MRI Organ Segmentation using Reverse Classification Accuracy,2018,,arXiv,Image Classification
+59,Learning Fixed Points in Generative Adversarial Networks: From Image-to-Image Translation to Disease Detection and Localization,2019,,arXiv,Image Classification
+60,Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images,2024,,arXiv,Image Classification
+61,fastMONAI: A low-code deep learning library for medical image analysis,2023,Software Impacts,Elsevier BV,Image Classification
+62,ImageNet Classification with Deep Convolutional Neural Networks,2017,Communications of the ACM,Association for Computing Machinery (ACM),Image Classification
+63,Review: Inception-v3 — 1st Runner Up (Image Classification) in ILSVRC 2015,,,,Review
+64,Rethinking the Inception Architecture for Computer Vision,2015,,arXiv,Review
+65,Implementing DenseNet-121 in PyTorch: A Step-by-Step Guide,,,,Article
+66,An Improved VGG16 Model for Pneumonia Image Classification,2021,Applied Sciences,MDPI AG,Image Classification
+67,Overview of Advanced Computer Vision Systems for Skin Lesions Characterization,2009,IEEE Transactions on Information Technology in Biomedicine,Institute of Electrical and Electronics Engineers (IEEE),Traditional Image Processing
+68,Automated medical image segmentation techniques,2010,Journal of Medical Physics,Medknow,Traditional Image Processing
+69,Medical Image Classification with Convolutional Neural Network,2014,,IEEE,Traditional Image Processing
+70,AlexNet and DenseNet-121-based Hybrid CNN Architecture for Skin Cancer Prediction from Dermoscopic Images,2022,International Journal for Research in Applied Science and Engineering Technology,International Journal for Research in Applied Science and Engineering Technology (IJRASET),Image Classification
+71,Comparing different deep learning architectures for classification of chest radiographs,2020,Scientific Reports,Springer Science and Business Media LLC,Image Classification
+72,"Comparing Inception V3, VGG 16, VGG 19, CNN, and ResNet 50: A Case Study on Early Detection of a Rice Disease",2023,Agronomy,MDPI AG,Image Classification
+73,Basics of Supervised Deep Learning,2019,,Springer Singapore,Image Classification
+74,Biomedical image classification using deep convolutional neural networks – overview,2021,IOP Conference Series: Materials Science and Engineering,IOP Publishing,Image Classification
+75,Machine Learning for Synthetic Data Generation: A Review,,,,Review
+76,A comprehensive review of synthetic data generation in smart farming by using variational autoencoder and generative adversarial network,2024,Engineering Applications of Artificial Intelligence,Elsevier BV,Review
+77,Tabular and latent space synthetic data generation: a literature review,2023,Journal of Big Data,Springer Science and Business Media LLC,Review
+78,Comprehensive Exploration of Synthetic Data Generation: A Survey,2024,,arXiv,Review
+79,Deep Learning for Image Segmentation: A Focus on Medical Imaging,2023,"Computers, Materials &amp; Continua","Computers, Materials and Continua (Tech Science Press)",Image Segmentation
+80,Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges,2019,Journal of Digital Imaging,Springer Science and Business Media LLC,Image Segmentation
+81,A Review of Deep-Learning-Based Medical Image Segmentation Methods,2021,Sustainability,MDPI AG,Image Segmentation
+82,FULLY CONVOLUTIONAL NETWORKS FOR MULTI-MODALITY ISOINTENSE INFANT BRAIN IMAGE SEGMENTATION,2016,,IEEE,Image Segmentation
+83,Kidney and Renal Tumor Segmentation Using a Hybrid V-Net-Based Model,2020,Mathematics,MDPI AG,Image Segmentation
+84,U-Net-Based Medical Image Segmentation,2022,Journal of Healthcare Engineering,Hindawi Limited,Image Segmentation
+85,U-Net and Its Variants for Medical Image Segmentation: A Review of Theory and Applications,2021,IEEE Access,Institute of Electrical and Electronics Engineers (IEEE),Image Segmentation
+86,Medical image recognition and segmentation of pathological slices of gastric cancer based on Deeplab v3+ neural network,2021,Computer Methods and Programs in Biomedicine,Elsevier BV,Image Segmentation
+87,TSE DeepLab: An efficient visual transformer for medical image segmentation,2023,Biomedical Signal Processing and Control,Elsevier BV,Image Segmentation
+88,Generative adversarial networks in medical image segmentation: A review,2022,Computers in Biology and Medicine,Elsevier BV,Image Segmentation
+89,GAN review: Models and medical image fusion applications,2023,Information Fusion,Elsevier BV,Image Segmentation
+90,An HOG-LBP human detector with partial occlusion handling,2009,,IEEE,Object Detection
+91,Deep learning methods for medical image fusion: A review,2023,Computers in Biology and Medicine,Elsevier BV,Image Fusion
+92,Medical image fusion method by deep learning,2021,International Journal of Cognitive Computing in Engineering,Elsevier BV,Image Fusion
+93,Rich feature hierarchies for accurate object detection and semantic segmentation,,,,Object Detection
+94,A medical image fusion method based on convolutional neural networks,2017,,IEEE,Image Fusion
+95,Deep learning in medical image registration: a review,2020,Physics in Medicine &amp; Biology,IOP Publishing,Image Fusion
+96,Multimodal Medical Image Fusion based on Deep Learning Neural Network for Clinical Treatment Analysis,2018,International Journal of ChemTech Research,Sai Scientific Communications,Image Fusion
+97,Fast R-CNN,2015,,arXiv,Object Detection
+98,"You Only Look Once:Unified, Real-Time Object Detection",2015,,arXiv,Object Detection
+99,SSD: Single Shot MultiBox Detector,2016,,Springer International Publishing,Object Detection
+100,Deep Learning-Based Object Detection Algorithms in Medical Imaging:Systematic Review,2024,,Elsevier BV,Object Detection
+101,Investigations of Object Detection in Images/Videos Using Various Deep Learning Techniques and Embedded Platforms—A Comprehensive Review,2020,Applied Sciences,MDPI AG,Object Detection
+102,An Innovative Faster R-CNN-Based Framework for Breast Cancer Detection in MRI,2023,Journal of Imaging,MDPI AG,Object Detection
+103,A Lightweight Diabetic Retinopathy Detection Model Using a Deep-Learning Technique,,,,Object Detection
+104,Application of deep learning in object detection,2017,,IEEE,Object Detection
+105,Deep learning-enabled medical computer vision,2021,npj Digital Medicine,Springer Science and Business Media LLC,Object Detection
+106,Deep Learning in Medical Image Analysis,2017,Annual Review of Biomedical Engineering,Annual Reviews,Object Detection
+107,Applying Deep Learning to Medical Imaging: A Review,2023,Applied Sciences,MDPI AG,Object Detection
+108,Generative Deep Learning in Digital Pathology Workflows,2021,The American Journal of Pathology,Elsevier BV,Object Detection
+109,"Mathematical Prerequisites For Understanding Autoencoders and Variational Autoencoders (VAEs): Beginner Friendly, Intermediate Exciting, and Expert Refreshing.",,,,blog
+110,Deep Learning in Medical Imaging,,,,Image Classification
+111,Introduction to Application of Predictive Modeling in Healthcare,,,,Review
+112,Predictive Analytics In Healthcare – 10 Use Cases and Real-World Examples,,,,predictive analysis
+113,Healthcare predictive analytics using machine learning and deep learning techniques: a survey,2023,Journal of Electrical Systems and Information Technology,Springer Science and Business Media LLC,Object Detection
+114,GAN-Based Approaches for Generating Structured Data in the Medical Domain,2022,Applied Sciences,MDPI AG,Synthetic Data Generation
+115,"Optimization and efficiency analysis of deep learning based brain tumor
+detection",2023,Mehran University Research Journal of Engineering and Technology,Mehran University of Engineering and Technology,Object Detection
+116,CXAI: Explaining Convolutional Neural Networks for Medical Imaging Diagnostic,2022,Electronics,MDPI AG,predictive analysis
+117,A DNA Based Colour Image Encryption Scheme Using A Convolutional Autoencoder,2023,"ACM Transactions on Multimedia Computing, Communications, and Applications",Association for Computing Machinery (ACM),predictive analysis
+118,Convolutional Recurrent Neural Network for Dynamic Functional MRI Analysis and Brain Disease Identification,2022,Frontiers in Neuroscience,Frontiers Media SA,predictive analysis
+119,2D‑to‑3D: A Review for Computational 3D Image Reconstruction from X‑ray Images,2022,Archives of Computational Methods in Engineering,Springer Science and Business Media LLC,3D image reconstruction
+120,Artificial Intelligence for MR Image Reconstruction: An Overview for Clinicians,2020,Journal of Magnetic Resonance Imaging,Wiley,3D image reconstruction
+121,GAN‐LSTM‐3D: An efficient method for lung tumour 3D reconstruction enhanced by attention‐based LSTM,2023,CAAI Transactions on Intelligence Technology,Institution of Engineering and Technology (IET),3D image reconstruction
+122,Real-Time 3D Reconstruction of Colonoscopic Surfaces for Determining Missing Regions,2019,,Springer International Publishing,3D image reconstruction
+123,Robust Orthogonal-View 2-D/3-D Rigid Registration for Minimally Invasive Surgery ,2021,Micromachines,MDPI AG,3D image reconstruction
+124,RNNSLAM: Reconstructing the 3D Colon to Visualize Missing Regions during a Colonoscopy,2021,Medical Image Analysis,Elsevier BV,3D image reconstruction
+125,Recent Advances in Autoencoder-Based Representation Learning,2018,,arXiv,3D image reconstruction
+126,Autoencoder and Its Various Variants,2018,,IEEE,3D image reconstruction
+127,A comprehensive survey on design and application of autoencoder in deep learning,2023,Applied Soft Computing,Elsevier BV,3D image reconstruction
+128,Synthetic data generation: State of the art in health care domain,2023,Computer Science Review,Elsevier BV,Synthetic Data Generation
+129,Controllable Medical Image Generation via GAN,2022,Journal of Perceptual Imaging,Society for Imaging Science & Technology,Synthetic Data Generation
+130,"An Overview of Variational Autoencoders for Source Separation, Finance, and Bio-Signal Applications ",2021,Entropy,MDPI AG,3D image reconstruction
+131,Variations in Variational Autoencoders - A Comparative Evaluation,2020,IEEE Access,Institute of Electrical and Electronics Engineers (IEEE),3D image reconstruction
+132,Tutorial on Variational Autoencoders,2019,Neural Computation,MIT Press - Journals,3D image reconstruction
+133,A Review of Recurrent Neural Networks: LSTM Cells and Network Architectures,2022,Journal of Perceptual Imaging,Society for Imaging Science & Technology,3D image reconstruction
+134,A Critical Review of Recurrent Neural Networks for Sequence Learning,2015,,arXiv,3D image reconstruction
+135,Learning Long-Term Dependencies with Gradient Descent is Difficult,1994,IEEE Transactions on Neural Networks,Institute of Electrical and Electronics Engineers (IEEE),3D image reconstruction
+136,Recent Advances in Recurrent Neural Networks,2018,,arXiv,3D image reconstruction
+137,Machine Learning for Synthetic Data Generation: A Review,2023,,arXiv,Synthetic Data Generation
+138,Diffusion models in medical imaging: A comprehensive survey,2023,Medical Image Analysis,Elsevier BV,Synthetic Data Generation
+139,How diffusion models work: the math from scratch,,,,Synthetic Data Generation
+140,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,2014,,Springer International Publishing,Object Detection
+141,Feature Pyramid Networks for Object Detection,2016,,arXiv,Object Detection
+142,Three-dimensional image volumes from two-dimensional digitallyreconstructed radiographs: A deep learning approach in lower limb CT scans,2021,Medical Physics,Wiley,3D image reconstruction
+143,XctNet: Reconstruction network of volumetric images from a single X-ray image,2022,Computerized Medical Imaging and Graphics,Elsevier BV,3D image reconstruction
+144,Combining GAN and LSTM Models for 3D Reconstruction of Lung Tumors from CT Scans,2023,International Journal of Advanced Computer Science and Applications,The Science and Information Organization,3D image reconstruction
+145,Generative Adversarial Network (GAN) for Automatic Reconstruction of the 3D Spine Structure by Using Simulated Bi-Planar X-ray Images ,2022,Diagnostics,MDPI AG,3D image reconstruction
+146,PatchCL-AE: Anomaly detection for medical images using patch-wise contrastive learning-based auto-encoder,2024,Computerized Medical Imaging and Graphics,Elsevier BV,Anamoly Detection
